@@ -1,0 +1,15 @@
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er7/bin/Debug/net6.0/er7
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er7/bin/Debug/net6.0/er7.deps.json
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er7/bin/Debug/net6.0/er7.runtimeconfig.json
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er7/bin/Debug/net6.0/er7.dll
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er7/bin/Debug/net6.0/er7.pdb
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er7/obj/Debug/net6.0/er7.csproj.AssemblyReference.cache
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er7/obj/Debug/net6.0/er7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er7/obj/Debug/net6.0/er7.AssemblyInfoInputs.cache
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er7/obj/Debug/net6.0/er7.AssemblyInfo.cs
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er7/obj/Debug/net6.0/er7.csproj.CoreCompileInputs.cache
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er7/obj/Debug/net6.0/er7.dll
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er7/obj/Debug/net6.0/refint/er7.dll
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er7/obj/Debug/net6.0/er7.pdb
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er7/obj/Debug/net6.0/er7.genruntimeconfig.cache
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er7/obj/Debug/net6.0/ref/er7.dll
