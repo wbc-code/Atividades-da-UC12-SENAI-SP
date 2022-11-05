@@ -1,6 +1,3 @@
-# Atividades-da-UC12-SENAI-SP
-Repositório da Atividade da PFS_UC12 - CODIFICAÇÃO PARA BACK-END
-
 # **Projeto ClientLab**
 Projeto criado para a automação de cadastro e busca de clientes da empresa ClientLab.
 
