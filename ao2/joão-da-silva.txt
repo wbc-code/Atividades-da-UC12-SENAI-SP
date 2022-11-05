@@ -1,0 +1,7 @@
+Nome: João da Silva
+Data de nascimento: 01/01/1980
+CPF: 123.456.789-00
+Endereço Residencial
+Rua dos Testes, 1 Apto. 1
+Bairro: Centro
+01010-010 - São Paulo/SP

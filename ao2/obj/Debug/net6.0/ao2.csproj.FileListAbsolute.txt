@@ -1,0 +1,30 @@
+/Users/ortegavan/Documents/git/senai-uc12/sa2/ao2/bin/Debug/net6.0/ao2
+/Users/ortegavan/Documents/git/senai-uc12/sa2/ao2/bin/Debug/net6.0/ao2.deps.json
+/Users/ortegavan/Documents/git/senai-uc12/sa2/ao2/bin/Debug/net6.0/ao2.runtimeconfig.json
+/Users/ortegavan/Documents/git/senai-uc12/sa2/ao2/bin/Debug/net6.0/ao2.dll
+/Users/ortegavan/Documents/git/senai-uc12/sa2/ao2/bin/Debug/net6.0/ref/ao2.dll
+/Users/ortegavan/Documents/git/senai-uc12/sa2/ao2/bin/Debug/net6.0/ao2.pdb
+/Users/ortegavan/Documents/git/senai-uc12/sa2/ao2/obj/Debug/net6.0/ao2.csproj.AssemblyReference.cache
+/Users/ortegavan/Documents/git/senai-uc12/sa2/ao2/obj/Debug/net6.0/ao2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ortegavan/Documents/git/senai-uc12/sa2/ao2/obj/Debug/net6.0/ao2.AssemblyInfoInputs.cache
+/Users/ortegavan/Documents/git/senai-uc12/sa2/ao2/obj/Debug/net6.0/ao2.AssemblyInfo.cs
+/Users/ortegavan/Documents/git/senai-uc12/sa2/ao2/obj/Debug/net6.0/ao2.csproj.CoreCompileInputs.cache
+/Users/ortegavan/Documents/git/senai-uc12/sa2/ao2/obj/Debug/net6.0/ao2.dll
+/Users/ortegavan/Documents/git/senai-uc12/sa2/ao2/obj/Debug/net6.0/ref/ao2.dll
+/Users/ortegavan/Documents/git/senai-uc12/sa2/ao2/obj/Debug/net6.0/ao2.pdb
+/Users/ortegavan/Documents/git/senai-uc12/sa2/ao2/obj/Debug/net6.0/ao2.genruntimeconfig.cache
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\Vanessa\senai-uc12-main\sa2\ao2\bin\Debug\net6.0\ao2.exe
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\Vanessa\senai-uc12-main\sa2\ao2\bin\Debug\net6.0\ao2.deps.json
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\Vanessa\senai-uc12-main\sa2\ao2\bin\Debug\net6.0\ao2.runtimeconfig.json
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\Vanessa\senai-uc12-main\sa2\ao2\bin\Debug\net6.0\ao2.dll
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\Vanessa\senai-uc12-main\sa2\ao2\bin\Debug\net6.0\ao2.pdb
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\Vanessa\senai-uc12-main\sa2\ao2\obj\Debug\net6.0\ao2.csproj.AssemblyReference.cache
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\Vanessa\senai-uc12-main\sa2\ao2\obj\Debug\net6.0\ao2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\Vanessa\senai-uc12-main\sa2\ao2\obj\Debug\net6.0\ao2.AssemblyInfoInputs.cache
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\Vanessa\senai-uc12-main\sa2\ao2\obj\Debug\net6.0\ao2.AssemblyInfo.cs
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\Vanessa\senai-uc12-main\sa2\ao2\obj\Debug\net6.0\ao2.csproj.CoreCompileInputs.cache
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\Vanessa\senai-uc12-main\sa2\ao2\obj\Debug\net6.0\ao2.dll
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\Vanessa\senai-uc12-main\sa2\ao2\obj\Debug\net6.0\refint\ao2.dll
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\Vanessa\senai-uc12-main\sa2\ao2\obj\Debug\net6.0\ao2.pdb
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\Vanessa\senai-uc12-main\sa2\ao2\obj\Debug\net6.0\ao2.genruntimeconfig.cache
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\Vanessa\senai-uc12-main\sa2\ao2\obj\Debug\net6.0\ref\ao2.dll
