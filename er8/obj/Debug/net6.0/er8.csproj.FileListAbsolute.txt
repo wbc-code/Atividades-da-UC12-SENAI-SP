@@ -1,0 +1,30 @@
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er8/bin/Debug/net6.0/er8
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er8/bin/Debug/net6.0/er8.deps.json
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er8/bin/Debug/net6.0/er8.runtimeconfig.json
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er8/bin/Debug/net6.0/er8.dll
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er8/bin/Debug/net6.0/er8.pdb
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er8/obj/Debug/net6.0/er8.csproj.AssemblyReference.cache
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er8/obj/Debug/net6.0/er8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er8/obj/Debug/net6.0/er8.AssemblyInfoInputs.cache
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er8/obj/Debug/net6.0/er8.AssemblyInfo.cs
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er8/obj/Debug/net6.0/er8.csproj.CoreCompileInputs.cache
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er8/obj/Debug/net6.0/er8.dll
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er8/obj/Debug/net6.0/refint/er8.dll
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er8/obj/Debug/net6.0/er8.pdb
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er8/obj/Debug/net6.0/er8.genruntimeconfig.cache
+/Users/ortegavan/Documents/git/senai-uc12/sa2/er8/obj/Debug/net6.0/ref/er8.dll
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\SA2\er8\bin\Debug\net6.0\er8.exe
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\SA2\er8\bin\Debug\net6.0\er8.deps.json
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\SA2\er8\bin\Debug\net6.0\er8.runtimeconfig.json
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\SA2\er8\bin\Debug\net6.0\er8.dll
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\SA2\er8\bin\Debug\net6.0\er8.pdb
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\SA2\er8\obj\Debug\net6.0\er8.csproj.AssemblyReference.cache
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\SA2\er8\obj\Debug\net6.0\er8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\SA2\er8\obj\Debug\net6.0\er8.AssemblyInfoInputs.cache
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\SA2\er8\obj\Debug\net6.0\er8.AssemblyInfo.cs
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\SA2\er8\obj\Debug\net6.0\er8.csproj.CoreCompileInputs.cache
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\SA2\er8\obj\Debug\net6.0\er8.dll
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\SA2\er8\obj\Debug\net6.0\refint\er8.dll
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\SA2\er8\obj\Debug\net6.0\er8.pdb
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\SA2\er8\obj\Debug\net6.0\er8.genruntimeconfig.cache
+D:\Programação - Devs\SENAI - Programação Full-Stack\Turma 8\PFS_UC12 - CODIFICAÇÃO PARA BACK-END - TURMA 8\SA2\er8\obj\Debug\net6.0\ref\er8.dll
