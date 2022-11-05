@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "er5", "er5.csproj", "{B1F1C9A9-D857-4520-8BC5-FD9D14409464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1F1C9A9-D857-4520-8BC5-FD9D14409464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F1C9A9-D857-4520-8BC5-FD9D14409464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F1C9A9-D857-4520-8BC5-FD9D14409464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F1C9A9-D857-4520-8BC5-FD9D14409464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51870391-A37A-4D68-83D3-D0977C7C94FC}
+	EndGlobalSection
+EndGlobal
