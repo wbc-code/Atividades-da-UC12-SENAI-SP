@@ -28,7 +28,7 @@ Para conseguir instalar e rodar o projeto é necessário ter instalado anteriorm
 ## 🚀 Como rodar o projeto
 Clone o projeto com o comando abaixo:
 ```bash
-  # Clone o repositório
+  	# Clone o repositório
   ❯ git clone https://github.com/wbc-code/Atividades-da-UC12-SENAI-SP
 
 	# Entre no diretório
